@@ -1,0 +1,157 @@
+demo_cyl.o demo_cyl.o: demo_cyl.cpp \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/odeconfig.h \
+  /usr/include/stdio.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/stdlib.h \
+  /usr/include/available.h /usr/include/sys/wait.h \
+  /usr/include/sys/signal.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/signal.h /usr/include/i386/signal.h \
+  /usr/include/i386/_structs.h /usr/include/sys/_structs.h \
+  /usr/include/machine/_structs.h /usr/include/mach/i386/_structs.h \
+  /usr/include/sys/resource.h /usr/include/machine/endian.h \
+  /usr/include/i386/endian.h /usr/include/sys/_endian.h \
+  /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/alloca.h \
+  /usr/include/machine/types.h /usr/include/i386/types.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h \
+  /usr/include/math.h /usr/include/architecture/i386/math.h \
+  /usr/include/string.h \
+  /usr/lib/gcc/i686-apple-darwin9/4.0.1/include/float.h \
+  /usr/include/assert.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/ode.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/compatibility.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/common.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/error.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/odeinit.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/contact.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/memory.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/odemath.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/matrix.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/timer.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/rotation.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/mass.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/misc.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/objects.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/odecpp.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/collision_space.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/collision.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/collision_trimesh.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/odecpp_collision.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/ode/export-dif.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/drawstuff/drawstuff.h \
+  /Users/jonjohn/Downloads/ode-0.11/include/drawstuff/version.h \
+  texturepath.h world_geom3.h
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/odeconfig.h:
+
+/usr/include/stdio.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/available.h:
+
+/usr/include/sys/wait.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/i386/signal.h:
+
+/usr/include/i386/_structs.h:
+
+/usr/include/sys/_structs.h:
+
+/usr/include/machine/_structs.h:
+
+/usr/include/mach/i386/_structs.h:
+
+/usr/include/sys/resource.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/libkern/_OSByteOrder.h:
+
+/usr/include/libkern/i386/_OSByteOrder.h:
+
+/usr/include/alloca.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/stdarg.h:
+
+/usr/include/math.h:
+
+/usr/include/architecture/i386/math.h:
+
+/usr/include/string.h:
+
+/usr/lib/gcc/i686-apple-darwin9/4.0.1/include/float.h:
+
+/usr/include/assert.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/ode.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/compatibility.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/common.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/error.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/odeinit.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/contact.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/memory.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/odemath.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/matrix.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/timer.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/rotation.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/mass.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/misc.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/objects.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/odecpp.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/collision_space.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/collision.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/collision_trimesh.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/odecpp_collision.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/ode/export-dif.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/drawstuff/drawstuff.h:
+
+/Users/jonjohn/Downloads/ode-0.11/include/drawstuff/version.h:
+
+texturepath.h:
+
+world_geom3.h:

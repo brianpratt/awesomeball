@@ -1,0 +1,39 @@
+﻿
+/* Class = "IBUILabel"; text = "Tamanho:"; ObjectID = "5"; */
+"5.text" = "Tamanho:";
+
+/* Class = "IBUILabel"; text = "Força de salto:"; ObjectID = "7"; */
+"7.text" = "Força de salto:";
+
+/* Class = "IBUINavigationItem"; title = "Bola Personalizada"; ObjectID = "15"; */
+"15.title" = "Bola Personalizada";
+
+/* Class = "IBUIButton"; disabledTitle = "Pessoal..."; ObjectID = "23"; */
+"23.disabledTitle" = "Pessoal...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Pessoal..."; ObjectID = "23"; */
+"23.highlightedTitle" = "Pessoal...";
+
+/* Class = "IBUIButton"; normalTitle = "Pessoal..."; ObjectID = "23"; */
+"23.normalTitle" = "Pessoal...";
+
+/* Class = "IBUIButton"; selectedTitle = "Pessoal..."; ObjectID = "23"; */
+"23.selectedTitle" = "Pessoal...";
+
+/* Class = "IBUIButton"; disabledTitle = "Awesome Ball..."; ObjectID = "32"; */
+"32.disabledTitle" = "Awesome Ball...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Awesome Ball..."; ObjectID = "32"; */
+"32.highlightedTitle" = "Awesome Ball...";
+
+/* Class = "IBUIButton"; normalTitle = "Awesome Ball..."; ObjectID = "32"; */
+"32.normalTitle" = "Awesome Ball...";
+
+/* Class = "IBUIButton"; selectedTitle = "Awesome Ball..."; ObjectID = "32"; */
+"32.selectedTitle" = "Awesome Ball...";
+
+/* Class = "IBUILabel"; text = "Imágen:"; ObjectID = "33"; */
+"33.text" = "Imágen:";
+
+/* Class = "IBUILabel"; text = "Ball Mass:"; ObjectID = "37"; */
+"37.text" = "Massa:";

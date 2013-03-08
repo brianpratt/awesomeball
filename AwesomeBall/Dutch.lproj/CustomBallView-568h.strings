@@ -1,0 +1,39 @@
+﻿
+/* Class = "IBUILabel"; text = "Ball Size:"; ObjectID = "5"; */
+"5.text" = "Balformaat:";
+
+/* Class = "IBUILabel"; text = "Ball Bounciness:"; ObjectID = "7"; */
+"7.text" = "Gevoeligheid:";
+
+/* Class = "IBUINavigationItem"; title = "Custom Ball"; ObjectID = "15"; */
+"15.title" = "Eigen Bal";
+
+/* Class = "IBUIButton"; disabledTitle = "Custom..."; ObjectID = "23"; */
+"23.disabledTitle" = "Eigen...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Custom..."; ObjectID = "23"; */
+"23.highlightedTitle" = "Eigen...";
+
+/* Class = "IBUIButton"; normalTitle = "Custom..."; ObjectID = "23"; */
+"23.normalTitle" = "Eigen...";
+
+/* Class = "IBUIButton"; selectedTitle = "Custom..."; ObjectID = "23"; */
+"23.selectedTitle" = "Eigen...";
+
+/* Class = "IBUIButton"; disabledTitle = "Built-in..."; ObjectID = "32"; */
+"32.disabledTitle" = "Ingebouwd...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Built-in..."; ObjectID = "32"; */
+"32.highlightedTitle" = "Ingebouwd...";
+
+/* Class = "IBUIButton"; normalTitle = "Built-in..."; ObjectID = "32"; */
+"32.normalTitle" = "Ingebouwd...";
+
+/* Class = "IBUIButton"; selectedTitle = "Built-in..."; ObjectID = "32"; */
+"32.selectedTitle" = "Ingebouwd...";
+
+/* Class = "IBUILabel"; text = "Ball Image:"; ObjectID = "33"; */
+"33.text" = "Type Bal:";
+
+/* Class = "IBUILabel"; text = "Ball Mass:"; ObjectID = "37"; */
+"37.text" = "Massa:";

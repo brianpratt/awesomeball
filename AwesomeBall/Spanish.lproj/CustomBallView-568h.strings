@@ -1,0 +1,39 @@
+﻿
+/* Class = "IBUILabel"; text = "Tamaño:"; ObjectID = "5"; */
+"5.text" = "Tamaño:";
+
+/* Class = "IBUILabel"; text = "Fuerza del rebote:"; ObjectID = "7"; */
+"7.text" = "Fuerza del rebote:";
+
+/* Class = "IBUINavigationItem"; title = "Pelota Personalizado"; ObjectID = "15"; */
+"15.title" = "Pelota Personalizada";
+
+/* Class = "IBUIButton"; disabledTitle = "Personalizado..."; ObjectID = "23"; */
+"23.disabledTitle" = "Personalizada...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Personalizado..."; ObjectID = "23"; */
+"23.highlightedTitle" = "Personalizada...";
+
+/* Class = "IBUIButton"; normalTitle = "Personalizado..."; ObjectID = "23"; */
+"23.normalTitle" = "Personalizada...";
+
+/* Class = "IBUIButton"; selectedTitle = "Personalizado..."; ObjectID = "23"; */
+"23.selectedTitle" = "Personalizada...";
+
+/* Class = "IBUIButton"; disabledTitle = "Incorporado..."; ObjectID = "32"; */
+"32.disabledTitle" = "Incorporada...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Incorporado..."; ObjectID = "32"; */
+"32.highlightedTitle" = "Incorporada...";
+
+/* Class = "IBUIButton"; normalTitle = "Incorporado..."; ObjectID = "32"; */
+"32.normalTitle" = "Incorporada...";
+
+/* Class = "IBUIButton"; selectedTitle = "Incorporado..."; ObjectID = "32"; */
+"32.selectedTitle" = "Incorporada...";
+
+/* Class = "IBUILabel"; text = "Imágen:"; ObjectID = "33"; */
+"33.text" = "Imágen:";
+
+/* Class = "IBUILabel"; text = "Ball Mass:"; ObjectID = "37"; */
+"37.text" = "Masa:";

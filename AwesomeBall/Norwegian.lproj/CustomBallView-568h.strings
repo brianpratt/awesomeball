@@ -1,0 +1,39 @@
+﻿
+/* Class = "IBUILabel"; text = "Ball Size:"; ObjectID = "5"; */
+"5.text" = "Ball Størrelse:";
+
+/* Class = "IBUILabel"; text = "Ball Bounciness:"; ObjectID = "7"; */
+"7.text" = "Sprett teller:";
+
+/* Class = "IBUINavigationItem"; title = "Custom Ball"; ObjectID = "15"; */
+"15.title" = "Tilpasset Ball";
+
+/* Class = "IBUIButton"; disabledTitle = "Custom..."; ObjectID = "23"; */
+"23.disabledTitle" = "Tilpasse...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Custom..."; ObjectID = "23"; */
+"23.highlightedTitle" = "Tilpasse...";
+
+/* Class = "IBUIButton"; normalTitle = "Custom..."; ObjectID = "23"; */
+"23.normalTitle" = "Tilpasse...";
+
+/* Class = "IBUIButton"; selectedTitle = "Custom..."; ObjectID = "23"; */
+"23.selectedTitle" = "Tilpasse...";
+
+/* Class = "IBUIButton"; disabledTitle = "Built-in..."; ObjectID = "32"; */
+"32.disabledTitle" = "Bygg Inn...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Built-in..."; ObjectID = "32"; */
+"32.highlightedTitle" = "Bygg Inn...";
+
+/* Class = "IBUIButton"; normalTitle = "Built-in..."; ObjectID = "32"; */
+"32.normalTitle" = "Bygg Inn...";
+
+/* Class = "IBUIButton"; selectedTitle = "Built-in..."; ObjectID = "32"; */
+"32.selectedTitle" = "Bygg Inn...";
+
+/* Class = "IBUILabel"; text = "Ball Image:"; ObjectID = "33"; */
+"33.text" = "Bilde av Ball:";
+
+/* Class = "IBUILabel"; text = "Ball Mass:"; ObjectID = "37"; */
+"37.text" = "Masse:";

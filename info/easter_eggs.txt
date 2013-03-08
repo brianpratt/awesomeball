@@ -1,0 +1,9 @@
+From the main screen:
+
+1 - Slide two fingers all the way down the screen
+2 - Slide two fingers all the way across the screen
+3 - Rotate two fingers so that they change position
+4 - Slide one finger from one corner of the screen to the opposite corner diagonally
+5 - Slide three fingers across the screen horizontally
+
+Also, each of these does something different when the device is facing down (towards the floor).

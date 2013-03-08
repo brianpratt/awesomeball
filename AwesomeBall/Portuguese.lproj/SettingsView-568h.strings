@@ -1,0 +1,99 @@
+﻿
+/* Class = "IBUIButton"; disabledTitle = "Selecionar Bola!"; ObjectID = "6"; */
+"6.disabledTitle" = "Selecionar Bola!";
+
+/* Class = "IBUIButton"; highlightedTitle = "Selecionar Bola!"; ObjectID = "6"; */
+"6.highlightedTitle" = "Selecionar Bola!";
+
+/* Class = "IBUIButton"; normalTitle = "Selecionar Bola!"; ObjectID = "6"; */
+"6.normalTitle" = "Selecionar Bola!";
+
+/* Class = "IBUIButton"; selectedTitle = "Selecionar Bola!"; ObjectID = "6"; */
+"6.selectedTitle" = "Selecionar Bola!";
+
+/* Class = "IBUIButton"; disabledTitle = "Criar Parede..."; ObjectID = "59"; */
+"59.disabledTitle" = "Criar Parede...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Criar Parede..."; ObjectID = "59"; */
+"59.highlightedTitle" = "Criar Parede...";
+
+/* Class = "IBUIButton"; normalTitle = "Criar Parede..."; ObjectID = "59"; */
+"59.normalTitle" = "Criar Parede...";
+
+/* Class = "IBUIButton"; selectedTitle = "Criar Parede..."; ObjectID = "59"; */
+"59.selectedTitle" = "Criar Parede...";
+
+/* Class = "IBUIButton"; disabledTitle = "Criar Piso..."; ObjectID = "60"; */
+"60.disabledTitle" = "Criar Piso...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Criar Piso..."; ObjectID = "60"; */
+"60.highlightedTitle" = "Criar Piso...";
+
+/* Class = "IBUIButton"; normalTitle = "Criar Piso..."; ObjectID = "60"; */
+"60.normalTitle" = "Criar Piso...";
+
+/* Class = "IBUIButton"; selectedTitle = "Criar Piso..."; ObjectID = "60"; */
+"60.selectedTitle" = "Criar Piso...";
+
+/* Class = "IBUILabel"; text = "Câmera Segue\na Bola"; ObjectID = "68"; */
+"68.text" = "Câmera Segue\na Bola";
+
+/* Class = "IBUIButton"; disabledTitle = "Passe a bola!"; ObjectID = "71"; */
+"71.disabledTitle" = "Passe a bola!";
+
+/* Class = "IBUIButton"; highlightedTitle = "Passe a bola!"; ObjectID = "71"; */
+"71.highlightedTitle" = "Passe a bola!";
+
+/* Class = "IBUIButton"; normalTitle = "Passe a bola!"; ObjectID = "71"; */
+"71.normalTitle" = "Passe a bola!";
+
+/* Class = "IBUIButton"; selectedTitle = "Passe a bola!"; ObjectID = "71"; */
+"71.selectedTitle" = "Passe a bola!";
+
+/* Class = "IBUITextView"; text = "Awesome Ball foi criado por Jonathan Johnson and\nBrian Pratt.\n\nPerguntas ou sugestões?\nsupport@awesomeball.com\nwww.awesomeball.com\n\nEncontrou alguns secretos?\n\n\n\nOpen Dynamics Engine\nCopyright (c) 2001-2004, Russell L. Smith.\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\nNeither the names of ODE's copyright owner nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."; ObjectID = "77"; */
+"77.text" = "Awesome Ball foi criado por Jonathan Johnson and\nBrian Pratt.\n\nPerguntas ou sugestões?\nsupport@awesomeball.com\nwww.awesomeball.com\n\nEncontrou alguns secretos?\n\n\nThanks to those who have helped us with translations!\n\nGerman: Mark Harnisch, Sebastian Gilles\nFrench: Lara Bechwati, Matthew Mancini\nItalian: Lara Bechwati\nDutch: Richard Rompas\nDanish: Mads Cordes\nNorwegian: Hans-Christer Skorgen\nSwedish: Oliver Lundquist\n\n\nOpen Dynamics Engine\nCopyright (c) 2001-2004, Russell L. Smith.\nAll rights reserved.\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\nRedistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\nRedistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\nNeither the names of ODE's copyright owner nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.";
+
+/* Class = "IBUIButton"; disabledTitle = "Reset"; ObjectID = "81"; */
+"81.disabledTitle" = "Reset";
+
+/* Class = "IBUIButton"; highlightedTitle = "Reset"; ObjectID = "81"; */
+"81.highlightedTitle" = "Reset";
+
+/* Class = "IBUIButton"; normalTitle = "Reset"; ObjectID = "81"; */
+"81.normalTitle" = "Reset";
+
+/* Class = "IBUIButton"; selectedTitle = "Reset"; ObjectID = "81"; */
+"81.selectedTitle" = "Reset";
+
+/* Class = "IBUIButton"; disabledTitle = "Reset"; ObjectID = "84"; */
+"84.disabledTitle" = "Reset";
+
+/* Class = "IBUIButton"; highlightedTitle = "Reset"; ObjectID = "84"; */
+"84.highlightedTitle" = "Reset";
+
+/* Class = "IBUIButton"; normalTitle = "Reset"; ObjectID = "84"; */
+"84.normalTitle" = "Reset";
+
+/* Class = "IBUIButton"; selectedTitle = "Reset"; ObjectID = "84"; */
+"84.selectedTitle" = "Reset";
+
+/* Class = "IBUIButton"; disabledTitle = "Regressar a Awesome Ball!"; ObjectID = "100"; */
+"100.disabledTitle" = "Regressar a Awesome Ball!";
+
+/* Class = "IBUIButton"; highlightedTitle = "Regressar a Awesome Ball!"; ObjectID = "100"; */
+"100.highlightedTitle" = "Regressar a Awesome Ball!";
+
+/* Class = "IBUIButton"; normalTitle = "Regressar a Awesome Ball!"; ObjectID = "100"; */
+"100.normalTitle" = "Regressar a Awesome Ball!";
+
+/* Class = "IBUIButton"; selectedTitle = "Regressar a Awesome Ball!"; ObjectID = "100"; */
+"100.selectedTitle" = "Regressar a Awesome Ball!";
+
+/* Class = "IBUILabel"; text = "Ajustes"; ObjectID = "123"; */
+//"123.text" = "Ajustes";
+
+/* Class = "IBUILabel"; text = "Saltos totais:"; ObjectID = "125"; */
+"125.text" = "Saltos totais:";
+
+/* Class = "IBUILabel"; text = "0"; ObjectID = "128"; */
+"128.text" = "0";

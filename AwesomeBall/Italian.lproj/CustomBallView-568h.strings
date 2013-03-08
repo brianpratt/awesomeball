@@ -1,0 +1,39 @@
+﻿
+/* Class = "IBUILabel"; text = "Ball Size:"; ObjectID = "5"; */
+"5.text" = "Palla Dimensioni:";
+
+/* Class = "IBUILabel"; text = "Ball Bounciness:"; ObjectID = "7"; */
+"7.text" = "Palla Rimbalzo:";
+
+/* Class = "IBUINavigationItem"; title = "Custom Ball"; ObjectID = "15"; */
+"15.title" = "Palla Personalizzata";
+
+/* Class = "IBUIButton"; disabledTitle = "Custom..."; ObjectID = "23"; */
+"23.disabledTitle" = "Personalizzata...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Custom..."; ObjectID = "23"; */
+"23.highlightedTitle" = "Personalizzata...";
+
+/* Class = "IBUIButton"; normalTitle = "Custom..."; ObjectID = "23"; */
+"23.normalTitle" = "Personalizzata...";
+
+/* Class = "IBUIButton"; selectedTitle = "Custom..."; ObjectID = "23"; */
+"23.selectedTitle" = "Personalizzata...";
+
+/* Class = "IBUIButton"; disabledTitle = "Built-in..."; ObjectID = "32"; */
+"32.disabledTitle" = "Incassato...";
+
+/* Class = "IBUIButton"; highlightedTitle = "Built-in..."; ObjectID = "32"; */
+"32.highlightedTitle" = "Incassato...";
+
+/* Class = "IBUIButton"; normalTitle = "Built-in..."; ObjectID = "32"; */
+"32.normalTitle" = "Incassato...";
+
+/* Class = "IBUIButton"; selectedTitle = "Built-in..."; ObjectID = "32"; */
+"32.selectedTitle" = "Incassato...";
+
+/* Class = "IBUILabel"; text = "Ball Image:"; ObjectID = "33"; */
+"33.text" = "Palla Pittura:";
+
+/* Class = "IBUILabel"; text = "Ball Mass:"; ObjectID = "37"; */
+"37.text" = "Massa:";
